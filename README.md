@@ -1,7 +1,3 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1e3a5f,100:84CC16&height=200&section=header&text=Diego%20Berrio&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20Digital%20Artisan&descSize=18&descAlignY=58&animation=fadeIn" />
-</div>
 
 <div align="center">
 
@@ -38,7 +34,7 @@ I lead the full engineering cycle — from system architecture and REST APIs to 
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expo&theme=dark" width="48" height="48" alt="Expo" />
+        <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*kepX0EHTbLc6O9mRKsierg.png" width="48" height="48" alt="Expo" />
         <br /><sub><b>Expo</b></sub>
       </td>
       <td align="center" width="96">
