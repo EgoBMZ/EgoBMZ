@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/297014950?v=4" width="100" style="border-radius: 50%; margin-bottom: 20px;" />
+  <img src="https://avatars.githubusercontent.com/u/297014950?v=4" width="120" style="border-radius: 50%; margin-bottom: 20px; border: 2px solid #84CC16;" />
   
   # Hi, I'm Diego Berrio
   
-  **Software Engineer & Digital Artisan**  
-  Engineering scalable digital solutions with 7+ years of production experience.
+  <a href="https://ribeor.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=84CC16&center=true&vCenter=true&width=500&lines=Software+Engineer;Digital+Artisan;Building+Scalable+Solutions;React+%26+React+Native+Expert" alt="Typing SVG" />
+  </a>
 
   <br />
 
@@ -23,22 +24,31 @@ Currently integrating active AI features into real-world products. Founder of **
 
 <br />
 
-### ✦ Core Stack
+### ✦ Core Technologies
+
+To keep things clean and breathable, here is the stack I use in production daily:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,aws,docker,firebase,postgres,figma&theme=dark" alt="Tech Stack Grid" />
-  <br/>
-  <p><em>React, React Native, TypeScript, Next.js, Node, AWS, Firebase & Figma</em></p>
+  <br />
+  <!-- Línea 1: Frontend & Mobile -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" alt="Frontend" />
+  </a>
+  <br /><br />
+  <!-- Línea 2: Backend & Database -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,postgres&theme=dark" alt="Backend" />
+  </a>
+  <br /><br />
+  <!-- Línea 3: Herramientas Adicionales -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,aws,docker&theme=dark" alt="Tools" />
+  </a>
+  <br />
+  <p><em>React, React Native, Next.js, TypeScript, Tailwind, Node.js, Firebase, Postgres, Figma, Expo</em></p>
 </div>
 
 <br />
-
-### ✦ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoBMZ&show_icons=true&theme=nord&hide_border=true&bg_color=0F172A&title_color=84CC16&icon_color=84CC16&text_color=94A3B8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoBMZ&layout=compact&theme=nord&hide_border=true&bg_color=0F172A&title_color=84CC16&text_color=94A3B8" alt="Top Languages" width="48%" />
-</div>
 
 ---
 <div align="center">
