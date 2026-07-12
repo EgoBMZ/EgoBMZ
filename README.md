@@ -38,10 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=EgoBMZ&theme=radical&hide_border=true&background=0D0D0D&ring=E85D3D&fire=E85D3D&currStreakLabel=E85D3D&sideNums=A09C97&sideLabels=A09C97&dates=A09C97" alt="EgoBMZ's Streak" height="195" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoBMZ&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=E85D3D&text_color=A09C97" alt="Top Languages" height="180" />
-</div>
-
 <br />
 
 ### 📈 Activity Graph
